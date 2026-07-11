@@ -1,0 +1,169 @@
+
+
+Title: The Legend of Geyser Lake
+Creator: Jaiden Hordosillo
+Work Type: Poem
+Language: English
+Country: United States
+Year Created: 2026
+Publication Date: July 9th, 2026
+Author Guild Human Authored Reg #: 4005749
+ISBN: 978-1-956116-11-3
+DOI:  10.5281/zenodo.21299836
+LCCN: pending
+Wikidata: Q140488139
+URL: hordosillo.com/thelegendofgeyserlake
+
+
+KNOWN MANIFESTATIONS
+
+1. Print chapbook
+2. EPUB ebook
+3. Live audio reading
+4. Printable PDF edition
+5. GLTF 3D representation
+6. ERC-1155 blockchain representation
+
+
+
+
+Print Edition
+
+ISBN (Print):
+978-1-956116-11-3
+
+Page Count:
+26
+
+Publisher:
+Jaiden Hordosillo
+
+Publication Format:
+Print Booklet / Chapbook
+
+Print PDF SHA-256:
+AAAE9C9BF86CCC8E70C5F397E7B2BA6260332F8A4BFAEA66D38E8E19B63E8F90
+
+
+
+
+
+Ebook Edition
+
+ASIN: 
+B0H8FGSQ7Q
+
+Format:
+EPUB
+
+Word Count:
+1266
+
+Publisher:
+Jaiden Hordosillo
+
+EPUB SHA-256:
+EE95668F846BEF0F2DCE566A28B1FC4F95F5C0695BA6469F4951D188421154DD
+
+
+
+
+Audio Recording
+
+ISRC:
+pending
+
+MLC:
+pending
+
+BMI:
+pending
+
+Duration:
+02:53
+
+Release Date:
+July 10, 2026
+
+Label:
+Jaiden Hordosillo
+
+Publisher:
+Jaiden Hordosillo
+
+IMDB:
+pending
+
+Audio Recording SHA-256:
+62B19015F29CD0961D2989BCF6DA03F655FCB072B7BC40142813CCCF5902FD4D
+
+
+
+3D Version & NFT
+
+Format: GLTF
+
+Blockchain: Polygon
+
+Contract Address:
+https://polygonscan.com/address/0x182c711dc9c00f6e23d0e93d210551c5b1c5d5ce
+
+Token ID:
+https://ipfs.io/ipfs/QmPcHmu5qgP8MVgDRD7nZjfMfyZUTLiqeA4qEAcQTfRRpW/2
+
+Token Standard:
+ERC1155
+
+3D Model SHA-256:
+EE95668F846BEF0F2DCE566A28B1FC4F95F5C0695BA6469F4951D188421154DD
+
+NFT Media SHA-256:
+2AACA8B6488A1B974B6D1450F145E4FDFADFFACE9BC24710F63B4C285B1F8448
+
+
+
+
+Creator Information
+
+Name: Jaiden Hordosillo
+
+ISNI:
+0000000530430623
+
+ORCID:
+0009-0005-4147-4231
+
+BMI IPI/CAE:
+01338492724
+
+SoundExchange PID:
+2181200897
+
+MLC Publisher Number:
+P747IA
+
+EIN:
+39-3928958
+
+IMDB:
+nm18585100
+
+Wikidata:
+Q140132261
+
+
+
+Copyright © 2026 Jaiden Hordosillo
+All rights reserved unless otherwise stated.
+
+This work forms part of an ongoing literary preservation initiative focused on long-term accessibility, 
+discoverability, and archival sustainability of contemporary poetry.
+
+This publication is intentionally preserved across multiple formats and metadata systems, 
+including print, ebook, audio, digital repositories, library catalogs, creator identifier 
+systems, rights management organizations, and 3D archival representations.
+
+The goal of this project is to maximize the likelihood that the work remains 
+discoverable and accessible to readers, researchers, and cultural institutions
+for future generations.
+
